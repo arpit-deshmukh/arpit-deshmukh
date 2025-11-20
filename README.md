@@ -5,9 +5,9 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-deshmukh-08877227a/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yourusername)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arpiteshmukh21)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/arpit_deshmukh_/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitdeshmukh21@gmail.com)
+
 
 
 
