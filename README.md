@@ -1,6 +1,6 @@
-# 💫 About Me:
- Myself Arpit Deshmukh <br>👯 Completing My DSA in  C++<br>🌱 I’m currently learning Web Development<br>🔭 I’m currently working on projects <br>💬 I'm always looking for new challenges and opportunities<br>⚡ To collaborate with others, so feel free to<br>reach out and connect with me!<br/>
 
+✨ About Me
+👋 Hi, I’m Arpit Deshmukh 💻 Practicing Data Structures & Algorithms in Java 🌱 Exploring the world of Web Development 🚀 Building real-world projects to sharpen my skills 💬 Always curious about new challenges & opportunities 🤝 Excited to collaborate and learn from others — let’s connect!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpit-deshmukh-08877227a/) 
